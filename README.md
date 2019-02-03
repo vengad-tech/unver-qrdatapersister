@@ -6,7 +6,7 @@ Unver data-persister also encrypts the content using AES.
 Currently the tool does not support binary data or compression. Support for those will be added in the future.
 
 ## Downloading
-Download the tool and extract the ZIP to a folder: [Download link](to_update)
+Download the tool and extract the ZIP to a folder: [Download link](https://github.com/vengadanathan/unver-qrdatapersister/raw/master/build/distributions/qrdatapersister-0.1.zip)
 
 ## Using the tool
 
